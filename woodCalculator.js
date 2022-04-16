@@ -8,5 +8,5 @@ function woodCalculator(tchair, tbed){
     return result;
 
 }
- total = woodCalculator(5,2);
+ total = woodCalculator(1,2);
 console.log(total);
